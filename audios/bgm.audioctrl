@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "bgm",
+  "identifier": "playback_controller_model:6218-119c2263-cc83-4577-9f67-35f5235c7fec",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:3416-119c2263-cc83-4577-9f67-35f5235c7fec"
+}
